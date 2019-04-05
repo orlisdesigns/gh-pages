@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Orlis Designs Blog",
+    "description": "",
+    "home_page_url": "https://orlisdesigns.github.io/gh-pages",
+    "feed_url": "https://orlisdesigns.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Orlis Alonso Designs"
+    },
+    "items": [
+        {
+            "id": "https://orlisdesigns.github.io/gh-pages/hola-2.html",
+            "url": "https://orlisdesigns.github.io/gh-pages/hola-2.html",
+            "title": "Hola 2",
+            "summary": "Probando esta cosa parte 2 ",
+            "content_html": "Probando esta cosa parte 2<br><br><img class=\"post__image--left\" src=\"https://orlisdesigns.github.io/gh-pages/media/posts/2/1c9f04ef74104f22e753d7ee054c4efb.jpg\" alt=\"\" width=\"564\" height=\"564\">",
+            "author": {
+                "name": "Orlis Alonso Designs"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-04T18:03:21-06:00",
+            "date_modified": "2019-04-04T18:03:21-06:00"
+        },
+        {
+            "id": "https://orlisdesigns.github.io/gh-pages/hola.html",
+            "url": "https://orlisdesigns.github.io/gh-pages/hola.html",
+            "title": "Hola!",
+            "summary": "Hola Mundo! Este pronto será el Nuevo Blog de Orlis Designs! Más informes, muy pronto! uitable for all kinds&hellip;",
+            "content_html": "<strong>Hola Mundo! </strong><br><br><img class=\"post__image\" src=\"https://orlisdesigns.github.io/gh-pages/media/posts/1/21d9e3f89181733e8af5782673399d78.jpg\" alt=\"Imagen Ejemplo\" width=\"323\" height=\"458\"><br><br>Este pronto será el <strong>Nuevo Blog de <em>Orlis Designs</em></strong>!<br><br>Más informes, <strong><strong>muy pronto!<br><br><img class=\"post__image\" src=\"https://orlisdesigns.github.io/gh-pages/media/posts/1/86eb46ff5de8534530c6d639ebaa4f7a.jpg\" alt=\"Imagen Ejemplo\" width=\"474\" height=\"680\"><br></strong></strong>\n<p class=\"dropcap\">uitable for all kinds of personal blogs, journal, story and other related projects, with an emphasis on design and typography. Lorem ipsum dolor sit amet, usu id nonumes vulputate, ne sed inermis adolescens. Vis aliquam fabulas neglegentur et. Te nam diam quodsi, veri adhuc patrioque ad eum. </p>\n<p>Atqui putent patrioque qui id, duo mutat accusata moderatius cu, ne elitr oratio eos. Qui ut quem altera impedit. An duo <a href=\"https://getpublii.com/themes/demo/editorial/gray/blogger-theme-with-a-beautiful-design-and-pro-typography/\">solum partem</a> mollis, in vidit philosophia eam, eos legimus recteque honestatis et. Iudicabit incorrupte an quo, expetendis assueverit in eum, qui te alia homero. Id pri novum perfecto, essent accommodare reprehendunt est et. Ne everti mentitum vel, vis ut graece discere offendit. Est tempor fabellas dissentiunt an, purto choro tamquam eum eu.<br><br><img class=\"post__image\" src=\"https://orlisdesigns.github.io/gh-pages/media/posts/1/a894f5651cbe4a4e23f9f51f8df4ce19.jpg\" alt=\"Img Ejemplo\" width=\"564\" height=\"760\"></p>",
+            "author": {
+                "name": "Orlis Alonso Designs"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-04T17:18:47-06:00",
+            "date_modified": "2019-04-04T17:31:40-06:00"
+        }
+    ]
+}
